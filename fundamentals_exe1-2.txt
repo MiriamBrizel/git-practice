@@ -1,0 +1,16 @@
+ב"ה
+
+python fundamentals-exersice 1
+1. false
+2. true
+3. true
+4. true
+5. false
+6.true
+
+
+
+python fundamentals-exersice 2
+a = 10
+b = 6
+c = 2
